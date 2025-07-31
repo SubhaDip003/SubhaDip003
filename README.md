@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Subhadip Sardar</h1>
-<h3 align="center">A passionate Cybersecurity Analyst from India</h3>
+<h3 align="center">A passionate Cybersecurity enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadip003&label=Profile%20views&color=0e75b6&style=flat" alt="subhadip003" /> </p>
 
-- 🌱 I’m currently learning **Certified Ethical Hacking version 13, Certified Red Team Analysts**
+Hi, I’m Subhadip Sardar — a cybersecurity enthusiast with a strong foundation in Networking, Ethical Hacking, Active Directory, Linux, and VAPT. I hold a degree in Advanced Networking and Cybersecurity from Brainware University, blending hands-on skills with deep technical knowledge to tackle today’s security challenges. I’m passionate about continuous learning, problem-solving, and contributing to a safer digital world. On GitHub, you’ll find my experiments, tools, and writeups as I explore and grow in this ever-evolving field. Let’s build, secure, and innovate together.
 
-- 📫 How to reach me **subhadipsardar866@gmail.com**
+🌱 I’m currently Preparing for **CHEv13 & CRTA Certifications**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +18,10 @@
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadip003&show_icons=true&locale=en&layout=compact" alt="subhadip003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhadip003&show_icons=true&locale=en" alt="subhadip003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhadip003&" alt="subhadip003" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadip003&show_icons=true&theme=dark&locale=en&layout=compact" alt="subhadip003" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhadip003&show_icons=true&theme=dark&locale=en" alt="subhadip003" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhadip003&theme=dark" alt="subhadip003" /></p>
