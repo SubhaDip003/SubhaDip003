@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadip003&label=Profile%20views&color=0e75b6&style=flat" alt="subhadip003" /> </p>
 
-Hi, I’m Subhadip Sardar — a cybersecurity enthusiast with a strong foundation in Networking, Ethical Hacking, Active Directory, Linux, and VAPT. I hold a degree in Advanced Networking and Cybersecurity from Brainware University, blending hands-on skills with deep technical knowledge to tackle today’s security challenges. I’m passionate about continuous learning, problem-solving, and contributing to a safer digital world. On GitHub, you’ll find my experiments, tools, and writeups as I explore and grow in this ever-evolving field. Let’s build, secure, and innovate together.
+Hi, I’m Subhadip Sardar — a cybersecurity enthusiast with a strong foundation in Networking, Ethical Hacking, Active Directory, Linux, and VAPT. I hold a degree in Advanced Networking and Cybersecurity from Brainware University, blending hands-on skills with deep technical knowledge to tackle today’s security challenges. I’m passionate about continuous learning, problem-solving, and contributing to a safer digital world. 
+
+On GitHub, you’ll find my experiments, tools, and writeups as I explore and grow in this ever-evolving field. Let’s build, secure, and innovate together.
 
 🌱 I’m currently Preparing for **CHEv13 & CRTA Certifications**.
 
