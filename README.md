@@ -13,7 +13,8 @@ On GitHub, you’ll find my experiments, tools, and writeups as I explore and gr
 ## 🧰 **Technical Skills**
 - **Penetration Testing**: Network and Web Application
 - **Programming**: Python, Bash, C (basic)  
-- **Platforms**: [TryHackMe](https://tryhackme.com/p/SubhaDip), [Hack The Box](https://app.hackthebox.com/profile/1658126), PortSwigger Lab and CTF challenges. 
+- **Platforms**: [TryHackMe](https://tryhackme.com/p/SubhaDip), [Hack The Box](https://app.hackthebox.com/profile/1658126), PortSwigger Lab and CTF challenges.
+- **Operating System**: Linux, Windows
 
 ---
 <h3 align="left">Languages and Tools:</h3>
